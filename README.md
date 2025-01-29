@@ -4,4 +4,5 @@ Dating platform
 teamup platform
 Social media
 QPs
+Hackathon finder
 (nothing is built yet)
